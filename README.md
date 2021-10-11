@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou o @sergiomiguel7
-- 👀 Sempre à procura de novos desafios nas minhas aréas de interesse.
+- 👀 Sempre à procura de novos desafios nas minhas áreas de interesse.
 - 🌱 Neste momento a trabalhar em projetos de mobile apps (React Native) e backend (NodeJs + Express + Prisma).
 - 📫 Podem-me contactar através do meu email: sergiompc12@gmail.com
 
