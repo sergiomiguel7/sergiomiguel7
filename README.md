@@ -1,7 +1,14 @@
-- 👋 Olá, Eu sou o @sergiomiguel7
-- 👀 Sempre à procura de novos desafios nas minhas áreas de interesse.
-- 🌱 Neste momento a trabalhar em projetos de mobile apps (Flutter e React Native) e frontend (React).
-- 📫 Podem-me contactar através do meu email: sergiompc12@gmail.com
+### 👋 Hi, I'm Sergio
+
+I'm a Software Engineer currently focused on **frontend development**.
+<br/>
+Passionate about clean UI, performance, and building great user experiences.
+
+🧑‍💻 Currently working at [@rows](http://rows.com/product)
+<br/>
+📫 Reach me at: [sergiompc12@gmail.com](mailto:sergiompc12@gmail.com)
+
+<!-- Optionally add: GitHub stats, pinned repos, or visitor badge -->
 
 <!---
 sergiomiguel7/sergiomiguel7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
